@@ -1,0 +1,45 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/luxury-purple-color-cylinder-pedestal-podium-product-presentation-3d-rendering_41470-4246.jpg?t=st=1668562454~exp=1668563054~hmac=524a75a4e091faffb299da99b27038e72761dab7fc79ebd77891822427de2b45");
+    height:100vh;
+    width:100vw;
+    background-size: cover;
+}
+.todo{
+    text-align:center;
+    color:white;
+    font-family:"Halvetica";
+    font-weight: bold;
+}
+.para{
+    text-align:center;
+    color:white;
+    font-family:"Halvetica";
+    font-weight: normal;
+}
+.para2{
+    color:white;
+    font-family:"Helvetica";
+}
+.para3{
+    color:white;
+    font-family: "Helvetica";
+    font-weight:"bold";
+}
+.button{
+    font-family:"Helvetica";
+    color:white;
+    background-color:orange;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+}
+.lastline{
+    font-family:"Helvetica";
+    color:white;
+    text-decoration:underline;
+    text-align:center;
+    font-size:12px;
+}
+.bcen{
+    text-align:center;
+}
